@@ -16,8 +16,12 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+         "**/*.png",
+	          "**/*.jpg",
+	          "**/*.gif",
+	          "**/*.bmp",
+	          "_themes/**"
+
         ],
         "exclude": [
           "**/obj/**",
