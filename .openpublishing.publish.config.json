@@ -5,7 +5,7 @@
     {
       "docset_name": "DocsTest",
       "build_source_folder": null,
-      "build_output_subfolder": "v-peliao/DocsTest",
+      "build_output_subfolder": "DocsTest",
       
       "locale": "en-us",
       "version": 0,
